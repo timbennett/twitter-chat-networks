@@ -9,6 +9,6 @@ Find everyone a user has mentioned in their recent tweets, then everyone mention
     eg
     python 2nd_degree_networks.py barackobama 200
 
-Sample image:
+Sample image (after visualisation in Gephi):
 
 ![@dannolan](http://i.imgur.com/Dt1A0bb.png)
